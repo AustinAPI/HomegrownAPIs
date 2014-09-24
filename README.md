@@ -6,7 +6,7 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 
 ### Austin-based Companies
 
-* Bazaarvoice
+* [Bazaarvoice](http://www.bazaarvoice.com/)
 * Bigcommerce
 * Clarify
 * HomeAway
