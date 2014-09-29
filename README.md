@@ -6,21 +6,33 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 
 ### Austin-based Companies
 
+* [44doors](http://captix.44doors.com/page/api)
 * [Agave API](http://agaveapi.co) (part of UT TACC)
+* Appconomy (not public) 
 * [Bazaarvoice](https://developer.bazaarvoice.com/docs)
 * [Bigcommerce](https://developer.bigcommerce.com/api/)
 * [Clarify](https://developer.clarify.io/docs/)
 * [ClearBlade](http://docs.clearblade.com/static/restapi/index.html)
+* [Clyp.it](http://clyp.it/api)
 * HomeAway (not public)
 * [Hoovers](http://developer.hoovers.com/)
 * [MapMyFitness](https://www.mapmyapi.com/)
 * [Mozu](http://www.mozu.com/developers) (by Volusion)
+* National Instruments (not sure about public)
+* [Postmaster.io](https://www.postmaster.io/docs/api)
+* [RetailMeNot](http://retailmenot.ideascale.com/a/ideascaleStatic.do?mode=api)
+* [Searchify](https://www.searchify.com/documentation/api)
 * [ShipStation](https://www.mashape.com/shipstation/shipstation)
+* [SimplyTapp](http://wiki.simplytapp.com/acquirer/authentication-and-binding-api)
+* [Spanning](https://api.spanningbackup.com/)
+* [SolarWinds](http://www.solarwinds.com/documentation/webhelpdesk/docs/whd_api_12.1.0/web%20help%20desk%20api.html)
+* [SubtleData](http://www.subtledata.com/Docs/)
 * SpredFast (not public)
 * Sparefoot (not public)
 * [Spiceworks](https://github.com/anthonyeden/spiceworks_api) (unofficial public)
 * [uShip](https://developer.uship.com/)
 * [Volusion](http://docs.volusion.apiary.io/)
+* [Zello](http://zello.com/api/)
 
 ### Austin-based Teams (company not based here)
 
