@@ -6,6 +6,7 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 
 ### Austin-based Companies
 
+* [Agave API](http://agaveapi.co) (part of UT TACC)
 * [Bazaarvoice](https://developer.bazaarvoice.com/docs)
 * [Bigcommerce](https://developer.bigcommerce.com/api/)
 * [Clarify](https://developer.clarify.io/docs/)
