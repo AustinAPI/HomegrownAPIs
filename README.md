@@ -13,6 +13,7 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * [ClearBlade](http://docs.clearblade.com/static/restapi/index.html)
 * HomeAway (not public)
 * [Hoovers](http://developer.hoovers.com/)
+* [MapMyFitness](https://www.mapmyapi.com/)
 * [Mozu](http://www.mozu.com/developers) (by Volusion)
 * [ShipStation](https://www.mashape.com/shipstation/shipstation)
 * SpredFast (not public)
