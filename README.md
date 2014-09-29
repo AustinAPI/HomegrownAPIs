@@ -19,7 +19,6 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * Sparefoot (not public)
 * [Spiceworks](https://github.com/anthonyeden/spiceworks_api) (unofficial public)
 * [uShip](https://developer.uship.com/)
-* VitalSource (@damonc help?)
 * [Volusion](http://docs.volusion.apiary.io/)
 
 ### Austin-based Teams (company not based here)
@@ -29,3 +28,4 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * Ebay - [Magento](http://www.magentocommerce.com/api/rest/introduction.html)
 * [Paypal](http://developer.paypal.com)
 * [Rackspace](https://developer.rackspace.com/)
+* VitalSource (not public)
