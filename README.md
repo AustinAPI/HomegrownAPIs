@@ -22,3 +22,4 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * IBM - [MQTT](http://mqtt.org/), [Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/)
 * Ebay - [Magento](http://www.magentocommerce.com/api/rest/introduction.html)
 * [Paypal](http://developer.paypal.com)
+* [Rackspace](https://developer.rackspace.com/)
