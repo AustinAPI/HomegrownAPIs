@@ -13,6 +13,7 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * [Hoovers](http://developer.hoovers.com/)
 * [ShipStation](https://www.mashape.com/shipstation/shipstation)
 * SpredFast (not public)
+* Sparefoot (not public)
 * [uShip](https://developer.uship.com/)
 * VitalSource (@damonc help?)
 * [Volusion](http://docs.volusion.apiary.io/)
