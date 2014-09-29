@@ -10,6 +10,7 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * [Bazaarvoice](https://developer.bazaarvoice.com/docs)
 * [Bigcommerce](https://developer.bigcommerce.com/api/)
 * [Clarify](https://developer.clarify.io/docs/)
+* [ClearBlade](http://docs.clearblade.com/static/restapi/index.html)
 * HomeAway (not public)
 * [Hoovers](http://developer.hoovers.com/)
 * [ShipStation](https://www.mashape.com/shipstation/shipstation)
