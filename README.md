@@ -19,6 +19,7 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * [MapMyFitness](https://www.mapmyapi.com/)
 * [Mozu](http://www.mozu.com/developers) (by Volusion)
 * National Instruments (not sure about public)
+* [Pingboard](https://pingboard.com/add-ons) (private beta)
 * [Postmaster.io](https://www.postmaster.io/docs/api)
 * [RetailMeNot](http://retailmenot.ideascale.com/a/ideascaleStatic.do?mode=api)
 * [Searchify](https://www.searchify.com/documentation/api)
