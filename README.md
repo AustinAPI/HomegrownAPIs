@@ -15,7 +15,6 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * [ClearBlade](http://docs.clearblade.com/static/restapi/index.html)
 * [Clyp.it](http://clyp.it/api)
 * HomeAway (not public)
-* [Hoovers](http://developer.hoovers.com/)
 * [MapMyFitness](https://www.mapmyapi.com/)
 * [Mozu](http://www.mozu.com/developers) (by Volusion)
 * National Instruments (not sure about public)
@@ -38,11 +37,12 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 
 ### Austin-based Teams (company not based here)
 
-* ReturnPath - [Context.io](https://context.io/docs/lite)
 * DrillingInfo (not public)
+* Dun & Bradstreet - [Hoovers](http://developer.hoovers.com/)
 * IBM - [MQTT](http://mqtt.org/), [Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/)
 * Ebay - [Magento](http://www.magentocommerce.com/api/rest/introduction.html)
 * [Paypal](http://developer.paypal.com)
 * [Rackspace](https://developer.rackspace.com/)
+* ReturnPath - [Context.io](https://context.io/docs/lite)
 * [SecureNet](http://www.securenet.com/)
 * VitalSource (not public)
