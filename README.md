@@ -15,6 +15,7 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * [ClearBlade](http://docs.clearblade.com/static/restapi/index.html)
 * [Clyp.it](http://clyp.it/api)
 * HomeAway (not public)
+* [Indeed](http://www.indeed.com/jsp/apiinfo.jsp)
 * [MapMyFitness](https://www.mapmyapi.com/)
 * [Mozu](http://www.mozu.com/developers) (by Volusion)
 * National Instruments (not sure about public)
