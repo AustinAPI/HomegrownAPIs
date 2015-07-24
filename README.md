@@ -16,6 +16,7 @@ This is a list of Austin-based companies (or teams) that publish APIs.
 * [Clyp.it](http://clyp.it/api)
 * HomeAway (not public)
 * [Indeed](http://www.indeed.com/jsp/apiinfo.jsp)
+* LawnStarter (not public)
 * [MapMyFitness](https://www.mapmyapi.com/)
 * [Mozu](http://www.mozu.com/developers) (by Volusion)
 * National Instruments (not sure about public)
